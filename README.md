@@ -1,4 +1,4 @@
-# 🪔 Perfumy - Perfume Store Website
+#  Perfumy - Perfume Store Website
 
 A simple perfume store landing page built with **HTML & CSS**.  
 This project is designed to practice front-end web development basics like layout, styling, and hover effects.
